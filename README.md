@@ -5,6 +5,7 @@ This is a script for market pricing dashboard for major crypto assets using Bitf
 Data Sources: 
 
 "https://www.cryptodatadownload.com/cdd/Bitfinex_EOSUSD_d.csv", 
+
 "https://www.cryptodatadownload.com/cdd/Bitfinex_EDOUSD_d.csv",
 "https://www.cryptodatadownload.com/cdd/Bitfinex_BTCUSD_d.csv",
 "https://www.cryptodatadownload.com/cdd/Bitfinex_ETHUSD_d.csv",
